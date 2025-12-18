@@ -10,5 +10,6 @@ import io.cucumber.junit.CucumberOptions;
         glue = "steps",
         plugin = {"pretty"}
 )
+//comment
 public class TestRunner {
 }
